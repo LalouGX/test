@@ -1,6 +1,8 @@
 body {
 color: white;
 background-image: url(images/349320-The_Witcher_3_Wild_Hunt.jpg);
+background-repeat:no-repeat;
+background-size:cover;
 text-align: center;
 }	
 h1 {
